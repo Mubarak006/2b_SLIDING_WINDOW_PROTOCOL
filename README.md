@@ -40,7 +40,8 @@ while True:
 ```
 
 ## OUPUT
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/caa7eac1-63fe-40b1-a061-69464360daf1" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
